@@ -11,5 +11,8 @@ declare module 'truffle-hdwallet-provider' {
         getAddresses (): Array<string>
     }
 
+    namespace HDWalletProvider {
+    }
+
     export = HDWalletProvider
 }
