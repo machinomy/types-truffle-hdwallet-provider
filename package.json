@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/machinomy/types-truffle-hdwallet-provider#readme",
   "dependencies": {
-    "@machinomy/types-web3": "^0.0.7",
-    "truffle-hdwallet-provider": "^0.0.5"
+    "@types/web3": "^1.0.19",
+    "truffle-hdwallet-provider": "^1.0.14"
   }
 }
